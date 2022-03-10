@@ -21,7 +21,7 @@ class AnotherQuestion {
 			
 		for( int i = 0; i <= maxWidth ;i++) {
 			// repeat method repeats the selected string 'int' times that is defined between () 
-				String Line = " ".repeat(numSpaces) + " *".repeat(numStars);
+				String Line = " ".repeat(numSpaces) + "*".repeat(numStars);
 				System.out.println(Line);
 				numSpaces-- ;
 				numStars++;
