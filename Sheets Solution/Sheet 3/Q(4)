@@ -1,4 +1,0 @@
-----------------------------------------------------------------            Q(4)   ------------------------------------------------------------
-
-
-to make MyStringBuffer class immutable you shoud define new temporary empty object inside this class and use it 
